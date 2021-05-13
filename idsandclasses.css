@@ -1,0 +1,21 @@
+body
+{
+background-color:purple;
+}
+p
+{
+color:white;
+}
+# para
+{
+ font-style:italic;
+}
+div p
+{
+
+border: 0.5px solid black; color:blue;
+}
+. para
+{
+ font-weight:bold;
+}

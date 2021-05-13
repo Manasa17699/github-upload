@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="/css/stylesheet.css>
+</head>
+<body>
+<h1>Hii there</h1>
+<center>
+<form>
+<h2 style="color:purple;font-size:12px">Registration Form</h2>
+<label for="First Name">First Name<input type="text" placeholder="Enter Surname">
+<label for="Last Name">Last Name<input type ="text" placeholder="Enter Name">
+<label for="Date of Birth">Date of Birth<input type="date">
+<label for="Gender">Gender<input name="Female" type="radio">
+<input name="Male" type="radio">
+<input name="Other" type="radio">
+<label for="email">Email<input type="email">
+<label for="password">Password<input type="password">
+<input type="checkbox">I have given the correct information.
+<input type="button">Submit
+</form>
+</center>
+</body>
+</html>
+
+
